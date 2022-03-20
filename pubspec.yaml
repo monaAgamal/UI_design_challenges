@@ -1,0 +1,38 @@
+name: complex_ui_implementation
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.16.1 <3.0.0"
+
+dependencies:
+  cupertino_icons: ^1.0.2
+  flutter:
+    sdk: flutter
+  go_router: ^3.0.4
+  visibility_detector: ^0.2.2
+
+dev_dependencies:
+  flutter_lints: ^1.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/sushi_images/many_suhi.jpg
+    - assets/sushi_images/menu.png
+    - assets/sushi_images/sushi_icon.png
+    - assets/sushi_images/sushi_roll.jpg
+    - assets/sushi_images/option_3.jpg
+    - assets/sushi_images/options_10.png
+    - assets/sushi_images/option_.png
+    - assets/sushi_images/options2.jpg
+    - assets/sushi_images/main_item.jpg
+    - assets/sushi_images/option_4.jpg
+    - assets/sushi_images/option_5.jpg
