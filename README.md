@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-This project contains different UI challenges with fluttter.
+This project contains different UI challenges with fluttter..
 
 ### the first challenge is 
 - Navigate with [go_router](https://gorouter.dev/)
